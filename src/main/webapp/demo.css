@@ -1,0 +1,30 @@
+/* 
+ * Colors from http://www.colourlovers.com/palette/867235/LoversInJapan
+ */
+
+body {
+    background: rgb(244,234,213);
+}
+
+#content {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#commentTable {
+    border: solid rgb(198,164,154) 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#commentTable td {
+    max-width: 40em;
+}
+table .odd { background: rgb(198,229,217);}
+table .even { background: rgb(244,234,213); }
+
+
+
+form .error {
+    border: solid 3px rgb(233,78,119);
+}
